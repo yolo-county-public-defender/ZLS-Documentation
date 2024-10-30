@@ -1,6 +1,6 @@
 # Yolo County Public Defender's Office - ZLS Documentation
 
-This repository contains documentation and user guides for ZLS (Zero License System), the case management system used by the Yolo County Public Defender's Office.
+This repository contains documentation and user guides for ZLS, the case management system used by the Yolo County Public Defender's Office.
 
 ## About ZLS
 
